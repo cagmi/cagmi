@@ -1,6 +1,9 @@
 # MACOS
 .DS_Store
 
+# DATABASE
+*.db
+
 # PYTHON
 
 # Byte-compiled / optimized / DLL files
